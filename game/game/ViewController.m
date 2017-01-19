@@ -422,8 +422,9 @@
                                   [UIImage imageNamed:@"hero_blowup_n1.png"],
                                   [UIImage imageNamed:@"hero_blowup_n2.png"],
                                   [UIImage imageNamed:@"hero_blowup_n3.png"],
+                                  [UIImage imageNamed:@"hero_blowup_n4.png"],
                                   nil];
-            hero.image=[UIImage imageNamed:@"hero_blowup_n3.png"];
+            hero.image=[UIImage imageNamed:@"hero_blowup_n4.png"];
             [hero setAnimationRepeatCount:1];
             hero.animationDuration=0.3;
             [hero startAnimating];
