@@ -157,7 +157,6 @@
     ufo=[[UIImageView alloc]init];
     [self.view addSubview:ufo];
     
-    
     /*pause & restart*/
     pause=[[UIButton alloc] initWithFrame:CGRectMake(self.view.frame.size.width-50, 30,30,20)];
     [pause setBackgroundImage:[UIImage imageNamed:@"game_pause_pressed.png"] forState:UIControlStateNormal];
