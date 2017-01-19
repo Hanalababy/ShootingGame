@@ -194,8 +194,8 @@
 				1749BC6B1E30957B004683B8 /* hero_blowup_n1.png */,
 				1749BC6D1E30957D004683B8 /* hero_blowup_n2.png */,
 				1749BC6F1E309580004683B8 /* hero_blowup_n3.png */,
-				1749BC711E309586004683B8 /* hero1.png */,
 				1749BC751E309590004683B8 /* hero_blowup_n4.png */,
+				1749BC711E309586004683B8 /* hero1.png */,
 				1749BC771E309DB7004683B8 /* hero2.png */,
 				1749BC731E30958A004683B8 /* ufo1.png */,
 			);
